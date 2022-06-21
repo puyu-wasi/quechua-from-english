@@ -4,7 +4,7 @@
 
 ## About this page
 
-* Southern Quechua, with general preference towards Cuzco Quechua and the Standard Quechua orthography.
+* Southern Quechua, with general preference towards Cuzco-Quechua dialect and the Standard Quechua orthography.
 
 ## Quick Basics
 
