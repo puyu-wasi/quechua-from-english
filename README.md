@@ -1,6 +1,9 @@
+ < < under construction > < < under construction > > < under construction > >
+
+
+
 # Southern Quechua
 
-< under construction >
 
 ## About this page
 
@@ -45,7 +48,19 @@
 ### Books
 
 
-## ~Appendix~
+## Appendix
+
+### Train your Dog / Cat / Subordinate 
+Dog		Allqu
+Puppy		Allqucha
+Sit		Tiyay
+Come 		Hamuy
+Good		Allin
+Walk		Puriy
+Shower	Phaqchachikuna / Ducha (spanish)
+Eat		Mikuy
+
+# TODO
 
 https://www.vanenos.com/en/others/energie/shamanism/
 https://en.wikipedia.org/wiki/Quechua_alphabet
@@ -98,13 +113,6 @@ Chunka isqunniyuq
 20
 Iskay chunka
 
-Dog		Allqu
-Puppy		Allqucha
-Sit		Tiyay
-Come 		Hamuy
-Good		Allin
-Walk		Puriy
-Shower	Phaqchachikuna / Ducha (spanish)
-Eat		Mikuy
+
 
 
