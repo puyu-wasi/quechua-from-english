@@ -1,5 +1,4 @@
- < < under construction > < < under construction > > < under construction > >
-github.com/yachakuy
+# Learning Southern Quechua (as an English speaker)
 
 ### About this page
 
@@ -7,7 +6,7 @@ This page is a collection of learning materials I've collected while learning th
 
 The materials here range from learning materials to quechuan media. Most of the information here is in the form of links to external resources, however there is also some basic language fundentials provided, and some items availible for download.
 
-# Learning Southern Quechua (as an English speaker)
+
 
 ### Alphabet
 
