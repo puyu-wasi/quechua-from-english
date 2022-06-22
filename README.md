@@ -1,19 +1,111 @@
  < < under construction > < < under construction > > < under construction > >
+github.com/yachakuy
+
+### About this page
+
+This page is a collection of learning materials I've collected while learning this beautiful language. As Quechua has a number of distinct dialects, it's worth noting that the materials here nearly all fall into Southern Quechua,with general preference towards the Cuzco-Quechua dialect, and Standard Quechua orthography. However, nothing here should be taken as absolute - only a general guide to consider.
+
+The materials here range from learning materials to quechuan media. Most of the information here is in the form of links to external resources, however there is also some basic language fundentials provided, and some items availible for download.
+
+# Learning Southern Quechua (as an English speaker)
+
+### Alphabet
 
 
+### Numbers
 
-# Southern Quechua
+<table>
+    <tr>
+        <th>0</th>
+        <th>ch’usah</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <th>huk</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <th>iskay</th>
+    </tr>
+    <tr>
+        <th>3</th>
+        <th>kimsa</th>
+    </tr>
+    <tr>
+        <th>4</th>
+        <th>tawa</th>
+    </tr>
+    <tr>
+        <th>5</th>
+        <th>pishqa</th>
+    </tr>
+    <tr>
+        <th>6</th>
+        <th>suqta</th>
+    </tr>
+    <tr>
+        <th>7</th>
+        <th>qanchis</th>
+    </tr>
+    <tr>
+        <th>8</th>
+        <th>pusaq</th>
+    </tr>
+    <tr>
+        <th>9</th>
+        <th>isqun</th>
+    </tr>
+    <tr>
+        <th>10</th>
+        <th>chunka</th>
+    </tr> 
+    <tr>
+        <th>11</th>
+        <th>chunka hukniyuq</th>
+    </tr> 
+    <tr>
+        <th>12</th>
+        <th>chunka iskayniyuq</th>
+    </tr> 
+    <tr>
+        <th>13</th>
+        <th>chunka kimsayuq</th>
+    </tr> 
+    <tr>
+        <th>14</th>
+        <th>chunka tawayuq</th>
+    </tr> 
+    <tr>
+        <th>15</th>
+        <th>chunka pishqayuq</th>
+    </tr> 
+    <tr>
+        <th>16</th>
+        <th>chunka suqtayuq</th>
+    </tr> 
+    <tr>
+        <th>17</th>
+        <th>chunka qanchisniyuq</th>
+    </tr> 
+    <tr>
+        <th>18</th>
+        <th>chunka pusaqniyuq</th>
+    </tr> 
+    <tr>
+        <th>19</th>
+        <th>chunka isqunniyuq</th>
+    </tr> 
+    <tr>
+        <th>20</th>
+        <th>iskay chunka</th>
+    </tr> 
+    <tr>
+        <th>100</th>
+        <th>huk pachak</th>
+    </tr> 
+</table>
 
-
-## About this page
-
-* Southern Quechua, with general preference towards Cuzco-Quechua dialect and the Standard Quechua orthography.
-
-## Quick Basics
-
-
-
-## Learning Resources
+## Learning Materials
 
 
 
@@ -50,15 +142,46 @@
 
 ## Appendix
 
-### Train your Dog / Cat / Subordinate 
-Dog		Allqu
-Puppy		Allqucha
-Sit		Tiyay
-Come 		Hamuy
-Good		Allin
-Walk		Puriy
-Shower	Phaqchachikuna / Ducha (spanish)
-Eat		Mikuy
+### Talk to your pet
+
+<table>
+    <tr>
+        <th>dog</th>
+        <th>allqu</th>
+    </tr>
+    <tr>
+        <th>puppy</th>
+        <th>allqucha</th>
+    </tr>
+    <tr>
+        <th>sit</th>
+        <th>ch’usah</th>
+    </tr>
+    <tr>
+        <th>stay</th>
+        <th>tiyay</th>
+    </tr>
+    <tr>
+        <th>come</th>
+        <th>hamuy</th>
+    </tr>
+    <tr>
+        <th>good</th>
+        <th>allin</th>
+    </tr>
+    <tr>
+        <th>walk</th>
+        <th>puriy</th>
+    </tr>
+    <tr>
+        <th>shower</th>
+        <th>phaqchachikuna</th>
+    </tr>
+    <tr>
+        <th>eat</th>
+        <th>mikuy</th>
+    </tr>
+</table>
 
 # TODO
 
@@ -70,48 +193,6 @@ https://forvo.com/languages/qu/
 https://www.yorku.ca/inpar/language/QuechuaFlashCards.pdf
 
 
-0
-ch’usah
-1
-huk
-2
-iskay
-3
-kimsa
-4
-tawa
-5
-pishqa
-6
-suqta
-7
-qanchis
-8
-pusaq
-9
-isqun
-10
-chunka
-11
-Chunka hukniyuq
-12
-Chunka iskayniyuq
-13
-Chunka kimsayuq
-14
-Chunka tawayuq
-15
-Chunka pishqayuq
-16
-Chunka suqtayuq
-17
-Chunka qanchisniyuq
-18
-Chunka pusaqniyuq
-19
-Chunka isqunniyuq
-20
-Iskay chunka
 
 
 
