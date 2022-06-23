@@ -2,17 +2,15 @@
 
 ### About this page
 
-This page is a collection of learning materials I've collected while learning this beautiful language. As Quechua has a number of distinct dialects, it's worth noting that the materials here nearly all fall into Southern Quechua,with general preference towards the Cuzco-Quechua dialect, and Standard Quechua orthography. However, nothing here should be taken as absolute - only a general guide to consider.
+This page is a collection of learning materials I've collected while studying. As Quechua has a number of distinct dialects, it's worth noting that the materials here strive to all fall under Southern Quechua, with general preference towards the Cuzco-Quechua dialect, and Standard Quechua orthography.
 
-The materials here range from learning materials to quechuan media. Most of the information here is in the form of links to external resources, however there is also some basic language fundentials provided, and some items availible for download.
-
-
+## Basic Reference
 
 ### Alphabet
 
+a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
 
 ### Numbers
-
 <table>
     <tr>
         <th>0</th>
