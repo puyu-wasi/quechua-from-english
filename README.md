@@ -2,7 +2,7 @@
 
 ### About this page
 
-This page is a collection of learning materials I've collected while studying. As Quechua has a number of distinct dialects, it's worth noting that the materials here strive to all fall under Southern Quechua, with general preference towards the Cuzco-Quechua dialect, and Standard Quechua orthography.
+This page is a collection of learning materials I've collected while studying. As Quechua has a number of distinct dialects and more, it's worth noting that the materials here strive to all fall under Southern Quechua, with general preference towards the Cuzco-Quechua dialect, and Standard Quechua orthography.
 
 ## Basic Reference
 
