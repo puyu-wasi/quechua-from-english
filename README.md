@@ -14,26 +14,22 @@ a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
 
 ## Learning Materials
 
-
-
 ### Websites
 
 
-
-### Language courses
-
+### Online Courses
 
 
-### Apps
+### Building Vocabuarly
 
 
+### iOS Apps
 
-### Books
 
+### Books   
 
 
 ## Media in Quechua
-
 
 
 ### Music
