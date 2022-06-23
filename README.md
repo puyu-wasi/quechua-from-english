@@ -10,6 +10,47 @@ This page is a collection of learning materials I've collected while studying. A
 
 a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
 
+
+
+## Learning Materials
+
+
+
+### Websites
+
+
+
+### Language courses
+
+
+
+### Apps
+
+
+
+### Books
+
+
+
+## Media in Quechua
+
+
+
+### Music
+
+
+
+### Movies
+
+
+
+### Books
+
+
+## Appendix
+
+### Talk to your pet
+
 ### Numbers
 <table>
     <tr>
@@ -101,45 +142,6 @@ a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
         <th>huk pachak</th>
     </tr> 
 </table>
-
-## Learning Materials
-
-
-
-### Websites
-
-
-
-### Language courses
-
-
-
-### Apps
-
-
-
-### Books
-
-
-
-## Media in Quechua
-
-
-
-### Music
-
-
-
-### Movies
-
-
-
-### Books
-
-
-## Appendix
-
-### Talk to your pet
 
 <table>
     <tr>
