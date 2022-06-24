@@ -187,7 +187,7 @@ http://talkingdictionary.swarthmore.edu/quechua_chanka/?fields=all&q=ducha
 https://forvo.com/languages/qu/
 https://www.yorku.ca/inpar/language/QuechuaFlashCards.pdf
 
-
+Quechua Church L.day Saints Materials
 
 
 
