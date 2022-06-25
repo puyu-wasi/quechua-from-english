@@ -12,36 +12,37 @@ a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
 
 ## Learning Materials
 
-### Websites
+### Building Vocabulary
 
 
-### Online Courses
-
-
-### Building Vocabuarly
-
-
-### iOS Apps
+### Online Lessons
 
 
 ### Books   
 
 
-## Media in Quechua
-
-
-### Music
+## The Quechua Speaking World
 
 
 
-### Movies
 
 
 
 ### Books
 
 
+
+
+### Film
+
+
+
+### Music
+
+
 ## Appendix
+
+make this links to other pages...
 
 ### Talk to your pet
 
