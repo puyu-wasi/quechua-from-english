@@ -2,7 +2,7 @@
 
 ### About this page
 
-This page is a collection of learning materials I've collected while studying. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here all strive to fall under the **[Southern Quechua](https://en.wikipedia.org/wiki/Southern_Quechua)** language, with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
+This page is a collection of learning materials I've collected while studying. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the **[Southern Quechua](https://en.wikipedia.org/wiki/Southern_Quechua)** language, with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
 
 ## Big Reference Table
 
