@@ -4,18 +4,7 @@
 
 This page is a collection of learning materials I've collected while studying. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family, it's worth noting that the materials here all strive to fall under the **[Southern Quechua](https://en.wikipedia.org/wiki/Southern_Quechua)** language, with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
 
-
-[Standard Quechua orthography](https://en.wikipedia.org/wiki/Quechua_alphabet)
-[Quechua](https://en.wikipedia.org/wiki/Quechuan_languages)
-[Cuzco-Quechua dialect](https://en.wikipedia.org/wiki/Cuzco_Quechua_language)
-[Southern Quechua](https://en.wikipedia.org/wiki/Southern_Quechua)
-
-
-
-
 ## Big Reference Table
-
-### Alphabet
 
 a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
 
