@@ -46,79 +46,62 @@ make this links to other pages...
 
 ### Talk to your pet
 
-### Numbers
-<table>
-    <tr>
-        <th>0</th>
-        <th>ch’usah</th>
-    </tr>
-    <tr>
-        <th>1</th>
-        <th>huk</th>
-    </tr>
-    <tr>
-        <th>2</th>
-        <th>iskay</th>
-    </tr>
-    <tr>
-        <th>3</th>
-        <th>kimsa</th>
-    </tr>
-    <tr>
-        <th>4</th>
-        <th>tawa</th>
-    </tr>
-    <tr>
-        <th>5</th>
-        <th>pishqa</th>
-    </tr>
-    <tr>
-        <th>6</th>
-        <th>suqta</th>
-    </tr>
-    <tr>
-        <th>7</th>
-        <th>qanchis</th>
-    </tr>
-    <tr>
-        <th>8</th>
-        <th>pusaq</th>
-    </tr>
-    <tr>
-        <th>9</th>
-        <th>isqun</th>
-    </tr>
-    <tr>
-        <th>10</th>
-        <th>chunka</th>
-    </tr> 
-    <tr>
-        <th>11</th>
-        <th>chunka hukniyuq</th>
-    </tr> 
-    <tr>
-        <th>12</th>
-        <th>chunka iskayniyuq</th>
-    </tr> 
+### Big Basic Reference Table
+
+| --- | ------------------- |
+|   0 | ch'usah             |
+| --- | ------------------- |
+|   1 | huk                 |
+| --- | ------------------- |
+|   2 | iskay               |
+| --- | ------------------- |
+|   3 | kimsa               |
+| --- | ------------------- |
+|   4 | tawa                |
+| --- | ------------------- |
+|   5 | pishqa              |
+| --- | ------------------- |
+|   6 | suqta               |
+| --- | ------------------- |
+|   7 | qanchis             |
+| --- | ------------------- |
+|   8 | pusaq               |
+| --- | ------------------- |
+|   9 | isqun               |
+| --- | ------------------- |
+|  10 | chunka              |
+| --- | ------------------- |
+|  11 | chunka hukniyuq     |
+| --- | ------------------- |
+|  12 | chunka iskayniyuq   |
+| --- | ------------------- |
+|  13 | chunka kimsayuq     |
+| --- | ------------------- |
+|  14 | chunka tawayuq      |
+| --- | ------------------- |
+|  15 | chunka pishqayuq    |
+| --- | ------------------- |
+|  16 | chunka suqtayuq     |
+| --- | ------------------- |
+|  17 | chunka qanchisniyuq |
+| --- | ------------------- |
+|  18 | chunka pusaqniyuq   |
+| --- | ------------------- |
+|  19 | chunka isqunniyuq   |
+| --- | ------------------- |
+|  20 | iskay chunka        |
+| --- | ------------------- |
+| 100 | pachak              |
+| --- | ------------------- |
+| 1^3 | waranqa             |
+| --- | ------------------- |
+| 1^6 | hunu                |
+| --- | ------------------- |
+
+
     <tr>
         <th>13</th>
-        <th>chunka kimsayuq</th>
-    </tr> 
-    <tr>
-        <th>14</th>
-        <th>chunka tawayuq</th>
-    </tr> 
-    <tr>
-        <th>15</th>
-        <th>chunka pishqayuq</th>
-    </tr> 
-    <tr>
-        <th>16</th>
-        <th>chunka suqtayuq</th>
-    </tr> 
-    <tr>
-        <th>17</th>
-        <th>chunka qanchisniyuq</th>
+
     </tr> 
     <tr>
         <th>18</th>
@@ -126,15 +109,15 @@ make this links to other pages...
     </tr> 
     <tr>
         <th>19</th>
-        <th>chunka isqunniyuq</th>
+        <th></th>
     </tr> 
     <tr>
         <th>20</th>
-        <th>iskay chunka</th>
+        <th></th>
     </tr> 
     <tr>
         <th>100</th>
-        <th>huk pachak</th>
+        <th>pachak</th>
     </tr> 
 </table>
 
