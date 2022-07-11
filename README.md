@@ -46,34 +46,34 @@ make this links to other pages...
 
 ### Talk to your pet
 
-### Big Basic Reference Table
+### Big Basic Reference-ish Table
 
 
-| NUM | NUM (QU)            |
-| --- | ------------------- |
-|   1 | huk                 |
-|   2 | iskay               |
-|   3 | kimsa               |
-|   4 | tawa                |
-|   5 | pishqa              |
-|   6 | suqta               |
-|   7 | qanchis             |
-|   8 | pusaq               |
-|   9 | isqun               |
-|  10 | chunka              |
-|  11 | chunka hukniyuq     |
-|  12 | chunka iskayniyuq   |
-|  13 | chunka kimsayuq     |
-|  14 | chunka tawayuq      |
-|  15 | chunka pishqayuq    |
-|  16 | chunka suqtayuq     |
-|  17 | chunka qanchisniyuq |
-|  18 | chunka pusaqniyuq   |
-|  19 | chunka isqunniyuq   |
-|  20 | iskay chunka        |
-| 100 | pachak              |
-| 1^3 | waranqa             |
-| 1^6 | hunu                |
+| Letter | Sound |    # | Number            |
+| ---: | :---    | ---: | :---
+|    a | |    1 | huk                 |
+|   ch |  |    2 | iskay               |
+|    h |  |    3 | kimsa               |
+|    i |  |    4 | tawa                |
+|    k |  |    5 | pishqa              |
+|    l |  |    6 | suqta               |
+|   ll |  |    7 | qanchis             |
+|    m |  |    8 | pusaq               |
+|    n |  |    9 | isqun               |
+|    ñ |  |   10 | chunka              |
+|    p |  |   11 | chunka hukniyuq     |
+|    q |  |   12 | chunka iskayniyuq   |
+|    s |  |   13 | chunka kimsayuq     |
+|    r |  |   14 | chunka tawayuq      |
+|    t |  |   15 | chunka pishqayuq    |
+|    u |  |   16 | chunka suqtayuq     |
+|    w |  |   17 | chunka qanchisniyuq |
+|    y |  |   18 | chunka pusaqniyuq   |
+|      |  |   19 | chunka isqunniyuq   |
+|      |  |   20 | iskay chunka        |
+|      |  |  100 | pachak              |
+|      |  | 10^3 | waranqa             |
+|      |  | 10^6 | hunu                |
 
 <table>
     <tr>
