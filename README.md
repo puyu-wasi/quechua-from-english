@@ -48,6 +48,7 @@ make this links to other pages...
 
 ### Big Basic Reference Table
 
+| --- | ------------------- |
 | NUM | NUM (QU)            |
 |   1 | huk                 |
 |   2 | iskay               |
