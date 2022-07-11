@@ -48,11 +48,8 @@ make this links to other pages...
 
 ### Big Basic Reference Table
 
-| --- | ------------------- |
-|   0 | ch'usah             |
-| --- | ------------------- |
+| NUM | NUM (QU)            |
 |   1 | huk                 |
-| --- | ------------------- |
 |   2 | iskay               |
 | --- | ------------------- |
 |   3 | kimsa               |
