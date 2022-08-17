@@ -1,12 +1,53 @@
-# Learning Southern Quechua (as an English speaker)
+# Learning Southern Quechua
+(as an English speaker)
 
 ### About this page
 
 This page is a collection of study materials I've collected while studying. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the **[Southern Quechua](https://en.wikipedia.org/wiki/Southern_Quechua)** language, with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
 
+# Reasons to learn
+* Completely regular verb congigations
+* Three vowel system
+* Familiar latin alphabet IS the writing system
+* Spiritual language
+* Evolved entirely sperately from probably anything else you know
+* Lots of shared vocab, with Spanish and even English
+* Sounds beautiful
+* You can make a difference
+* Wolfram-saphire theory?
+
 ## Big Reference Table
 
 a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
+
+Function	Suffix	Example	(translation)
+suffix indicating number	plural	-kuna	wasikuna	houses
+possessive suffix	1.person singular	-y, -:	wasiy, wasii	my house
+2.person singular	-yki	wasiyki	your house
+3.person singular	-n	wasin	his/her/its house
+1.person plural (incl)	-nchik	wasinchik	our house (incl.)
+1.person plural (excl)	-y-ku	wasiyku	our house (excl.)
+2.person plural	-yki-chik	wasiykichik	your (pl.) house
+3.person plural	-n-ku	wasinku	their house
+suffixes indicating case	nominative	–	wasi	the house (subj.)
+accusative	-(k)ta	wasita	the house (obj.)
+instrumental	-wan	wasiwan	with the house, and the house
+abessive	-naq	wasinaq	without the house
+dative	-paq	wasipaq	to the house
+genitive	-p(a)	wasip(a)	of the house
+causative	-rayku	wasirayku	because of the house
+benefactive	-paq	wasipaq	for the house
+locative	-pi	wasipi	at the house
+directional	-man	wasiman	towards the house
+inclusive	-piwan, puwan	wasipiwan, wasipuwan	including the house
+terminative	-kama, -yaq	wasikama, wasiyaq	up to the house
+transitive	-(rin)ta	wasinta	through the house
+ablative	-manta, -piqta	wasimanta, wasipiqta	off/from the house
+comitative	-(ni)ntin	wasintin	along with the house
+immediate	-raq	wasiraq	first the house
+intrative	-pura	wasipura	among the houses
+exclusive	-lla(m)	wasilla(m)	only the house
+comparative	-naw, -hina	wasinaw, wasihina	than the house
 
 
 
