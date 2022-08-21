@@ -18,8 +18,6 @@ This page is a collection of study materials I've collected while studying. As [
   * Three vowel system
   * Familiar latin alphabet IS the writing system
 * Evolved entirely sperately from probably anything else you know
-  
-  
 
 ---
 
@@ -43,20 +41,16 @@ a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
 
 ### Music
 
-YouTube Playlist
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+Takikuna Quechua (YouTube Playlist)
+[![Takikuna Quechua](https://img.youtube.com/vi/6R7zGDp_wsQ/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
 
 ### News and Information
 
 Ñuqanchik (TV News Program)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Ñuqanchik](https://img.youtube.com/vi/HQx9pbs1wJY/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
 
 Wikipedia
-[Qispi Insiklupidiya]([Wikipedia](https://qu.wikipedia.org/wiki/Main_Page))
+[Qispi Insiklupidiya](https://qu.wikipedia.org/wiki/Main_Page)
 
 ### 
 
