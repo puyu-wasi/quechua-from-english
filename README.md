@@ -4,13 +4,13 @@
 
 This page is a collection of study materials I've collected while studying. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (II-C), with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
 
-![](https://github.com/puyu-wasi/quechua-from-english/tree/main/files/quechuan_map.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quechuan_distribution.svg/521px-Quechuan_distribution.svg.png)
 
 ## 
 
 # Big Reference Table
 
-a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y
+*a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y*
 
 ## 
 
