@@ -1,3 +1,5 @@
+
+
 # **<u>Learning Southern Quechua</u>**
 
 ### About this page
@@ -36,30 +38,36 @@ This page is a collection of study materials I've collected while studying. As [
 
 ## Media
 
+---
+
 ### [Takikuna Quechua (Music)](https://www.youtube.com/watch?=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
 
 [![Takikuna Quechua](https://img.youtube.com/vi/6R7zGDp_wsQ/0.jpg)](https://www.youtube.com/watch?=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
+
+---
 
 ### [Ñuqanchik (TV News)](https://www.youtube.com/watch?=CGgB6RMM9dA&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
 
 [![Ñuqanchik](https://img.youtube.com/vi/HQx9pbs1wJY/0.jpg)](https://www.youtube.com/watch?=CGgB6RMM9dA&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
 
-### 
+---
 
 ### [Wikipedia](https://qu.wikipedia.org/wiki/Main_Page)
 
-[![Wikipedia in Quechua](https://qu.wikipedia.org/static/images/project-logos/quwiki-1.5x.png)](https://qu.wikipedia.org/wiki/Main_Page)
-
----
-
-## Organizations
-
-* ### [Qichwa 2.0](https://qu.wikipedia.org/wiki/Main_Page)
-
-## 
+[![Wikipedia in Quechua](https://qu.wikipedia.org/static/images/project-logos/quwiki-1.5x.png)](https://qu.wikipedia.org/wiki/Main_Page) 
 
 ---
 
 # Appendix
 
-make this links to other pages...
+## External Links
+
+- ### [Qichwa 2.0](https://qu.wikipedia.org/wiki/Main_Page)
+
+- ### [Internet Archive: Quechua](https://archive.org/search.php?query=quechua)
+
+- ### [National Library of Peru | Library of Congress](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
+
+## Other Stuff
+
+- ### [Notecard CSV](https://archive.org/search.php?query=quechua)

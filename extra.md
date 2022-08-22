@@ -65,20 +65,12 @@
 
 # TODO
 
-https://www.vanenos.com/en/others/energie/shamanism/
-
-https://www.yorku.ca/inpar/language/QuechuaFlashCards.pdf
-
 Quechua Church L.day Saints Materials
 
 add a robot.txt file or else to better search op resutles?
 
+- ### [aprender](https://aprenderquechua.com/english/)
 
+- [https://www.vanenos.com/en/others/energie/shamanism/
 
-[
-
-[National Library of Peru | Library of Congress](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
-
-
-
-
+- ### https://www.yorku.ca/inpar/lang
