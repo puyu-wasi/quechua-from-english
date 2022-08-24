@@ -34,11 +34,41 @@ This page is a collection of study materials I've collected while studying. As [
 
 ## Lessons & Courses
 
+Beginning
+
 - ### [Quechua, Simplified Language Course](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
+
+
+
+Intermediate
+
+
+
+
+
+Advanced
+
+
+
+
 
 ---
 
-# Quechua Language Stuff
+# Quechua Language Stuff / Emersion
+
+## Community
+
+reddit?
+
+telegram?
+
+discord?
+
+
+
+
+
+
 
 ## Media
 
