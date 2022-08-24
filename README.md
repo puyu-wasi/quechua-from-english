@@ -1,6 +1,10 @@
+##### *Puyu Wasi Learning Quechua Guide*
 
+--- 
 
 # **<u>Learning Southern Quechua</u>**
+
+Spoken by over 8 million people in South America and around the world, the Quechuan languages all originate from the dawn of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that is beautiful, unique, and not too difficult to learn.
 
 ### About this page
 
