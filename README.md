@@ -1,14 +1,17 @@
-##### *Puyu Wasi Learning Quechua Guide*
+<div>
+<center><strong>Puyu Wasi: Quechua-from-English Guide</strong></center>
+<center>Southern Quechua / Urin Qichwa / Runasimi</center>
+</div>
 
 --- 
 
 # **<u>Learning Southern Quechua</u>**
 
-Spoken by over 8 million people in South America and around the world, the Quechuan languages all originate from the dawn of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that is beautiful, unique, and not too difficult to learn.
+Spoken by over 8 million people in South America and around the world, the Quechuan languages emerged from the cradle of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that sounds phonetically beautiful, is truly unique, and really isn't too difficult to learn.
 
 ### About this page
 
-This page is a collection of study materials I've collected while studying. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**), with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
+This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**), with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
 
 <img title="" src="https://github.com/puyu-wasi/quechua-from-english/blob/main/files/puyu-wasi-quechua.png" alt="" data-align="inline">
 
@@ -22,86 +25,136 @@ This page is a collection of study materials I've collected while studying. As [
 
 # Learning Materials
 
-## Quick Translation Lookup
+## Quick Translation Look-up
 
-| Tools                                                                            | Notes                                                                                                                                   |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [***Google Translate***](https://translate.google.com/?sl=en&tl=qu&op=translate) | Also, [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en) |
-| [***QichwaDic***](https://www.dic.qichwa.net/#/)                                 | Multi-Library Search                                                                                                                    |
-| [***Quechua Chanka***](http://talkingdictionary.swarthmore.edu/quechua_chanka/)  | Talking Dictionary                                                                                                                      |
-| [***Forvo***](https://forvo.com/languages/qu/)                                   | Talking Dictionary                                                                                                                      |
-|                                                                                  |                                                                                                                                         |
+| Tools                                                                            | Notes                                                                                                                                                              |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [***Google Translate***](https://translate.google.com/?sl=en&tl=qu&op=translate) | It's Google Translate, <br/>Also [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en) |
+| [***QichwaDic***](https://www.dic.qichwa.net/#/)                                 | Multi-Dialect Search                                                                                                                                               |
+| [***Quechua Chanka***](http://talkingdictionary.swarthmore.edu/quechua_chanka/)  | Talking Dictionary                                                                                                                                                 |
+| [***Forvo***](https://forvo.com/languages/qu/)                                   | Talking Dictionary                                                                                                                                                 |
+| https://glosbe.com/en/qu                                                         |                                                                                                                                                                    |
+| http://www.quechuadictionary.org/                                                |                                                                                                                                                                    |
+| https://www.freelang.net/online/quechua_cuzco.php                                |                                                                                                                                                                    |
 
-## Lessons & Courses
+## Language Learning
 
-Beginning
+### Online Courses
 
-- ### [Quechua, Simplified Language Course](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
+- [**Vaneros.com - Quechua, Simplified Language Course**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
 
+- [Aprenderquechua.com - Learn Quechua Online](https://aprenderquechua.com/english/)
 
+- [Celt.indiana.edu - Quechua Courses](https://celt.indiana.edu/portal/Quechua/index.html)
 
-Intermediate
+### Wikis
 
+- [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages)
 
+- [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua)
 
+- [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language)
 
+- [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet)
 
-Advanced
+- [Introduction to Quechua - Wikiversity](https://en.wikiversity.org/wiki/Introduction_to_Quechua)
 
+- [Quechua - Wikibooks, open books for an open world]([Quechua - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Quechua))
 
+- [Wp/qug/Qichwa shimikuna - Wikimedia Incubator](https://incubator.wikimedia.org/wiki/Wp/qug/Qichwa_shimikuna)
 
+### Other More Eclectic Lessons
 
+- [Cultures of the Andes: Basic Quechua Lessons](https://www.andes.org/q_index.html)
+- [Quechua Language and Linguistics - Contents Page](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
+- [Runasimi.de - Runasimi](https://www.runasimi.de/runaengl.htm)
+- [Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
+- [Quichua.net Learn Quichua!](https://quichua.net/Q/Ec/Librocuna/Mishucunapaj.html)
+- https://lingweb.eva.mpg.de/quechua/Eng/Main/i_SGNS.HTM
+  - [Links to the Best Quechua Websites](https://lingweb.eva.mpg.de/quechua/Eng/Main/i_BSITES.HTM)
+- 
 
----
+## Big Vocabulary Data Set
 
-# Quechua Language Stuff / Emersion
-
-## Community
-
-reddit?
-
-telegram?
-
-discord?
-
-
-
-
-
-
-
-## Media
-
----
-
-### [Takikuna Quechua (Music)](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
-
-[![Takikuna Quechua](https://img.youtube.com/vi/6R7zGDp_wsQ/0.jpg)](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
+TBD - LINK TO FOLDER
 
 ---
 
-### [Ñuqanchik (TV News)](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
+# Immersion
 
-[![Ñuqanchik](https://img.youtube.com/vi/HQx9pbs1wJY/0.jpg)](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
+|                   | header                                                                                                          | header |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- | ------ |
+| Music             | [Takikuna Quechua (Music)](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV) |        |
+| Video             | [Ñuqanchik (TV News)](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)      |        |
+| Online            | [Wikipedia](https://qu.wikipedia.org/wiki/Main_Page)                                                            |        |
+| Books?            |                                                                                                                 |        |
+| Blogs?            |                                                                                                                 |        |
+| Podcasts?         |                                                                                                                 |        |
+| radio or lessons? | https://player.fm/series/rimasun-clacs-nyu                                                                      |        |
+| Radio             | https://www.radiosdelperu.pe/radio-tawantinsuyo                                                                 |        |
+
+TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 ---
 
-### [Wikipedia](https://qu.wikipedia.org/wiki/Main_Page)
+# Online Community
 
-[![Wikipedia in Quechua](https://qu.wikipedia.org/static/images/project-logos/quwiki-1.5x.png)](https://qu.wikipedia.org/wiki/Main_Page) 
+## Social
+
+**Discord Server Community**
+
+- [Andean Corner: Quechuan](https://discord.gg/CP5MpevRDu)
+
+**Reddit subreddits**
+
+- [Quechua](https://www.reddit.com/r/quechua/)
+
+- [Learn Quechua](https://www.reddit.com/r/LearnQuechua/)
+
+## Quechua Organizations
+
+- [Qichwa 2.0]([Qichwa 2.0](https://qichwa.net/en/))
+
+- [https://thequechua.org/](https://thequechua.org/)
+
+- [https://www.andes.org/](https://www.andes.org/)
 
 ---
 
 # Appendix
 
-## External Links
+## History & Culture (non-language)
 
-- ### [Qichwa 2.0](https://qu.wikipedia.org/wiki/Main_Page)
+**Fall of Civilizations**
 
-- ### [Internet Archive: Quechua](https://archive.org/search.php?query=quechua)
+- [The Inca - Cities in the Clouds (Part 1 of 2)]([12. The Inca - Cities in the Cloud (Part 1 of 2) - YouTube](https://www.youtube.com/watch?v=BRB9dJmZhVk))
 
-- ### [National Library of Peru | Library of Congress](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
+- [The Inca - Cities in the Clouds (Part 2 of 2)]([12. The Inca - Cities in the Cloud (Part 2 of 2) - YouTube](https://www.youtube.com/watch?v=2GkNOT2Q2hk))
 
-## Other Stuff
+**Ancient Americas**
 
-- ### [Notecard CSV](https://archive.org/search.php?query=quechua)
+- [Tiwanaku Part 1: The City]([Tiwanaku Part 1: The City - YouTube](https://www.youtube.com/watch?v=sybbruxeJu8))
+
+- [Tiwanaku Part 2: The Empire?]([Tiwanaku Part 2: The Empire? - YouTube](https://www.youtube.com/watch?v=yXW1PU9xBRg))
+
+- [The Norte Chico and the Peruvian Preceramic]([The Norte Chico and the Peruvian Preceramic - YouTube](https://www.youtube.com/watch?v=0aSe1Q-asr4))
+
+- [Moche Culture - YouTube](https://www.youtube.com/watch?v=j-TyUIc5Gro)
+
+## Paid Study Materials
+
+- https://www.amazon.com/Quechua-Spanish-English-Dictionary-Hippocrene-Trilingual-Reference/dp/0781813549/
+
+## Other Interesting Links
+
+- [National Library of Peru | Library of Congress]([National Library of Peru | Library of Congress](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru))
+
+- [Internet Archive: Quechua](https://archive.org/search.php?query=quechua)
+
+- [OHCHR | Universal Declaration of Human Rights - Quechua](https://www.ohchr.org/en/human-rights/universal-declaration/translations/quechua)
+
+- [OHCHR | Universal Declaration of Human Rights - Quechua del Cusco](https://www.ohchr.org/en/human-rights/universal-declaration/translations/quechua-del-cusco)
+
+- [ERIC - Search Results](https://eric.ed.gov/?q=quechua)
+
+- 
