@@ -37,42 +37,37 @@ This page is a collection of free study materials I've collected while learning.
 | http://www.quechuadictionary.org/                                                |                                                                                                                                                                    |
 | https://www.freelang.net/online/quechua_cuzco.php                                |                                                                                                                                                                    |
 
-## Language Learning
+### 'Best' Online Courses
 
-### Online Courses
+Note here - Not all are complete, not all are consistant with the aim of this document, or even each other. But look at all as a whole, and you'll get there - and develop your own style in the process.
 
 - [**Vaneros.com - Quechua, Simplified Language Course**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
 
-- [Aprenderquechua.com - Learn Quechua Online](https://aprenderquechua.com/english/)
+- https://aprenderquechua.com/english/
 
-- [Celt.indiana.edu - Quechua Courses](https://celt.indiana.edu/portal/Quechua/index.html)
+- [Cultures of the Andes: Basic Quechua Lessons](https://www.andes.org/q_index.html)
 
-### Wikis
+- [Quechua Language and Linguistics - Contents Page](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
 
-- [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages)
+- [Runasimi.de - Runasimi](https://www.runasimi.de/runaengl.htm)
 
-- [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua)
+- [Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
 
-- [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language)
-
-- [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet)
+- https://lingweb.eva.mpg.de/quechua/Eng/Main/i_SGNS.HTM
 
 - [Introduction to Quechua - Wikiversity](https://en.wikiversity.org/wiki/Introduction_to_Quechua)
 
-- [Quechua - Wikibooks, open books for an open world]([Quechua - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Quechua))
+- [Quechua - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Quechua)
 
-- [Wp/qug/Qichwa shimikuna - Wikimedia Incubator](https://incubator.wikimedia.org/wiki/Wp/qug/Qichwa_shimikuna)
+### Wikis
 
-### Other More Eclectic Lessons
-
-- [Cultures of the Andes: Basic Quechua Lessons](https://www.andes.org/q_index.html)
-- [Quechua Language and Linguistics - Contents Page](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
-- [Runasimi.de - Runasimi](https://www.runasimi.de/runaengl.htm)
-- [Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
-- [Quichua.net Learn Quichua!](https://quichua.net/Q/Ec/Librocuna/Mishucunapaj.html)
-- https://lingweb.eva.mpg.de/quechua/Eng/Main/i_SGNS.HTM
-  - [Links to the Best Quechua Websites](https://lingweb.eva.mpg.de/quechua/Eng/Main/i_BSITES.HTM)
 - 
+
+- 
+
+- 
+
+### 
 
 ## Big Vocabulary Data Set
 
@@ -157,4 +152,4 @@ TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - [ERIC - Search Results](https://eric.ed.gov/?q=quechua)
 
-- 
+- [Quechua Courses: Quechua: Language Portal: Center for Language Technology: Indiana University](https://celt.indiana.edu/portal/Quechua/courses/index.html)

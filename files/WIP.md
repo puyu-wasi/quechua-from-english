@@ -108,3 +108,7 @@ add a robot.txt file or else to better search op resutles?
 [What are some good resources to learn the Quechua language? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-the-Quechua-language)
 
 [Quechua Language Courses in Sacred Valley of the Incas](https://www.apulaya.com/en/quechua-language-courses-in-peru/)
+
+[Wp/qug/Qichwa shimikuna - Wikimedia Incubator](https://incubator.wikimedia.org/wiki/Wp/qug/Qichwa_shimikuna)
+
+[Quichua.net Learn Quichua!](https://quichua.net/Q/Ec/Librocuna/Mishucunapaj.html)
