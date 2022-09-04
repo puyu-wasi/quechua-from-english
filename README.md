@@ -11,63 +11,79 @@ Spoken by over 8 million people in South America and around the world, the Quech
 
 ### About this page
 
-This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**), with general preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
+This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**), with slight preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
 
 <img title="" src="https://github.com/puyu-wasi/quechua-from-english/blob/main/files/puyu-wasi-quechua.png" alt="" data-align="inline">
 
 ---
 
-# Big Reference Table
+# Big Language Table
 
-*a  ch  h  i  k  l  ll  m  n  ñ  p  q  s  t  u  w  y*
+*a  ch  h  i  k  l  ll  m  n  ñ  p  q  r  s  t  u  w  y*
 
  ---
 
 # Learning Materials
 
-## Quick Translation Look-up
+---
 
-| Tools                                                                            | Notes                                                                                                                                                              |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [***Google Translate***](https://translate.google.com/?sl=en&tl=qu&op=translate) | It's Google Translate, <br/>Also [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en) |
-| [***QichwaDic***](https://www.dic.qichwa.net/#/)                                 | Multi-Dialect Search                                                                                                                                               |
-| [***Quechua Chanka***](http://talkingdictionary.swarthmore.edu/quechua_chanka/)  | Talking Dictionary                                                                                                                                                 |
-| [***Forvo***](https://forvo.com/languages/qu/)                                   | Talking Dictionary                                                                                                                                                 |
-| https://glosbe.com/en/qu                                                         |                                                                                                                                                                    |
-| http://www.quechuadictionary.org/                                                |                                                                                                                                                                    |
-| https://www.freelang.net/online/quechua_cuzco.php                                |                                                                                                                                                                    |
+## Quick Look-up
 
-### 'Best' Online Courses
+### [**QichwaDic**](https://www.dic.qichwa.net/#/)
+
+This is probably my favorite one.
+
+### [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
+
+It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)).
+
+### Others
+
+- [Quechua Chanka (talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
+
+- [Forvo (talking dictionary)](https://forvo.com/languages/qu/)
+
+- [Glosbe](https://glosbe.com/en/qu)
+
+- [Quechua Dictionary](http://www.quechuadictionary.org/)
+
+- [Free Lang](https://www.freelang.net/online/quechua_cuzco.php)
+
+
+
+---
+
+## 'Best' Online Courses
 
 Note here - Not all are complete, not all are consistant with the aim of this document, or even each other. But look at all as a whole, and you'll get there - and develop your own style in the process.
 
-- [**Vaneros.com - Quechua, Simplified Language Course**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
+### [**Vaneros**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
 
-- https://aprenderquechua.com/english/
+Quechua, Simplified Language Course.
 
-- [Cultures of the Andes: Basic Quechua Lessons](https://www.andes.org/q_index.html)
+### [Quechua Language Online](https://aprenderquechua.com/english/)
 
-- [Quechua Language and Linguistics - Contents Page](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
+Free Course.
 
-- [Runasimi.de - Runasimi](https://www.runasimi.de/runaengl.htm)
+### [Cultures of the Andes](https://www.andes.org/q_index.html)
 
-- [Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
+Basic Quechua Lessons.
 
-- https://lingweb.eva.mpg.de/quechua/Eng/Main/i_SGNS.HTM
+### Others
 
-- [Introduction to Quechua - Wikiversity](https://en.wikiversity.org/wiki/Introduction_to_Quechua)
+- [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
 
-- [Quechua - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Quechua)
+- [Barry Brian Werger - Quechua Language]([Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
 
-### Wikis
+- [Runasimi.de](https://www.runasimi.de/runaengl.htm)
 
-- 
+- [Wikiversity Quechua](https://en.wikiversity.org/wiki/Introduction_to_Quechua)
 
-- 
+- [Wikibooks Quechua](https://en.wikibooks.org/wiki/Quechua)
 
-- 
+- [Indiana University - Free Quechua Courses](https://celt.indiana.edu/portal/Quechua/courses/index.html)
 
-### 
+
 
 ## Big Vocabulary Data Set
 
@@ -76,6 +92,8 @@ TBD - LINK TO FOLDER
 ---
 
 # Immersion
+
+
 
 |                   | header                                                                                                          | header |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- | ------ |
@@ -92,7 +110,7 @@ TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 ---
 
-# Online Community
+# Community
 
 ## Social
 
@@ -152,4 +170,6 @@ TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - [ERIC - Search Results](https://eric.ed.gov/?q=quechua)
 
-- [Quechua Courses: Quechua: Language Portal: Center for Language Technology: Indiana University](https://celt.indiana.edu/portal/Quechua/courses/index.html)
+- [Quechuan and Aymaran spelling shift - Wikipedia](https://en.wikipedia.org/wiki/Quechuan_and_Aymaran_spelling_shift)
+
+- 
