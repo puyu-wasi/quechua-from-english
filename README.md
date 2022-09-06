@@ -49,8 +49,6 @@ It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.goog
 
 - [Free Lang](https://www.freelang.net/online/quechua_cuzco.php)
 
-
-
 ---
 
 ## 'Best' Online Courses
@@ -69,9 +67,11 @@ Free Course.
 
 Basic Quechua Lessons.
 
-### Others
+### [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
 
-- [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
+
+
+### Others
 
 - [Barry Brian Werger - Quechua Language]([Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
 
@@ -83,8 +83,6 @@ Basic Quechua Lessons.
 
 - [Indiana University - Free Quechua Courses](https://celt.indiana.edu/portal/Quechua/courses/index.html)
 
-
-
 ## Big Vocabulary Data Set
 
 TBD - LINK TO FOLDER
@@ -92,8 +90,6 @@ TBD - LINK TO FOLDER
 ---
 
 # Immersion
-
-
 
 |                   | header                                                                                                          | header |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- | ------ |
