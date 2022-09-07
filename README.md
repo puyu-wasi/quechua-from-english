@@ -21,7 +21,7 @@ This page is a collection of free study materials I've collected while learning.
 
 *a  ch  h  i  k  l  ll  m  n  ñ  p  q  r  s  t  u  w  y*
 
- ---
+---
 
 # Learning Materials
 
@@ -68,8 +68,6 @@ Free Course.
 Basic Quechua Lessons.
 
 ### [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
-
-
 
 ### Others
 
