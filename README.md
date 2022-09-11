@@ -11,45 +11,17 @@ Spoken by over 8 million people in South America and around the world, the Quech
 
 ### About this page
 
-This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**), with slight preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect and [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography.
+This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**). Specifically, [Cusco-Collao Quechua](https://en.wikipedia.org/wiki/Cusco%E2%80%93Collao_Quechua) with slight preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect, and adhearing to the [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography and [spelling system](https://en.wikipedia.org/wiki/Quechuan_and_Aymaran_spelling_shift).
 
 <img title="" src="https://github.com/puyu-wasi/quechua-from-english/blob/main/files/puyu-wasi-quechua.png" alt="" data-align="inline">
 
+
+
 ---
-
-# Big Language Table
-
-*a  ch  h  i  k  l  ll  m  n  ñ  p  q  r  s  t  u  w  y*
 
 ---
 
 # Learning Materials
-
----
-
-## Quick Look-up
-
-### [**QichwaDic**](https://www.dic.qichwa.net/#/)
-
-This is probably my favorite one.
-
-### [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
-
-It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)).
-
-### Others
-
-- [Quechua Chanka (talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
-
-- [Forvo (talking dictionary)](https://forvo.com/languages/qu/)
-
-- [Glosbe](https://glosbe.com/en/qu)
-
-- [Quechua Dictionary](http://www.quechuadictionary.org/)
-
-- [Free Lang](https://www.freelang.net/online/quechua_cuzco.php)
-
----
 
 ## 'Best' Online Courses
 
@@ -81,9 +53,43 @@ Basic Quechua Lessons.
 
 - [Indiana University - Free Quechua Courses](https://celt.indiana.edu/portal/Quechua/courses/index.html)
 
+
+
+---
+
+## Quick Look-up
+
+### [**QichwaDic**](https://www.dic.qichwa.net/#/)
+
+This is probably my favorite one.
+
+### [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
+
+It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)).
+
+### Others
+
+- [Quechua Chanka (talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
+
+- [Forvo (talking dictionary)](https://forvo.com/languages/qu/)
+
+- [Glosbe](https://glosbe.com/en/qu)
+
+- [Quechua Dictionary](http://www.quechuadictionary.org/)
+
+- [Free Lang](https://www.freelang.net/online/quechua_cuzco.php)
+
+
+
+---
+
 ## Big Vocabulary Data Set
 
 TBD - LINK TO FOLDER
+
+ 
+
+---
 
 ---
 
@@ -100,25 +106,15 @@ TBD - LINK TO FOLDER
 | radio or lessons? | https://player.fm/series/rimasun-clacs-nyu                                                                      |        |
 | Radio             | https://www.radiosdelperu.pe/radio-tawantinsuyo                                                                 |        |
 
-TBD - LINK TO NEW REPO - Puyu Yachay Taqi
+Discord Server Community**
 
----
+- [Andean Corner: Quechuan##]([Andean Corner: Quechuan](https://discord.gg/CP5MpevRDu))
 
-# Community
+Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 
-## Social
 
-**Discord Server Community**
 
-- [Andean Corner: Quechuan](https://discord.gg/CP5MpevRDu)
-
-**Reddit subreddits**
-
-- [Quechua](https://www.reddit.com/r/quechua/)
-
-- [Learn Quechua](https://www.reddit.com/r/LearnQuechua/)
-
-## Quechua Organizations
+## Groups and Organizations
 
 - [Qichwa 2.0]([Qichwa 2.0](https://qichwa.net/en/))
 
@@ -126,11 +122,55 @@ TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - [https://www.andes.org/](https://www.andes.org/)
 
+- [Quechua](https://www.reddit.com/r/quechua/)
+
+- [https://www.reddit.com/r/LearnQuechua/](https://www.reddit.com/r/LearnQuechua/%5BQuechua%5D(https://www.reddit.com/r/quechua/))[Quechua](https://www.reddit.com/r/quechua/)
+
+- https://www.reddit.com/r/LearnQuechua/
+
+
+
+---
+
+---
+
+# Reference Tables
+
+Big Language Table
+
+*a ch h i k l ll m n ñ p q r s t u w y*
+
+
+
+---
+
 ---
 
 # Appendix
 
-## History & Culture (non-language)
+## Words in English that come from Quechua
+
+- Llama
+
+- Puma
+
+- Maté
+
+- Alpaca (allpaqa)
+
+- Condor (kuntur)
+
+- Quinoa (kinwa)
+
+- Jerky (ch'arki)
+
+- Cocaine / Cocoa (kuka)
+
+- Quinine (kina)
+
+
+
+## Learning about Andean culture (non-language)
 
 **Fall of Civilizations**
 
@@ -148,9 +188,7 @@ TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - [Moche Culture - YouTube](https://www.youtube.com/watch?v=j-TyUIc5Gro)
 
-## Paid Study Materials
 
-- https://www.amazon.com/Quechua-Spanish-English-Dictionary-Hippocrene-Trilingual-Reference/dp/0781813549/
 
 ## Other Interesting Links
 
@@ -164,6 +202,4 @@ TBD - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - [ERIC - Search Results](https://eric.ed.gov/?q=quechua)
 
-- [Quechuan and Aymaran spelling shift - Wikipedia](https://en.wikipedia.org/wiki/Quechuan_and_Aymaran_spelling_shift)
-
-- 
+- https://www.amazon.com/Quechua-Spanish-English-Dictionary-Hippocrene-Trilingual-Reference/dp/0781813549/
