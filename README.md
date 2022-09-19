@@ -15,8 +15,6 @@ This page is a collection of free study materials I've collected while learning.
 
 <img title="" src="https://github.com/puyu-wasi/quechua-from-english/blob/main/files/puyu-wasi-quechua.png" alt="" data-align="inline">
 
-
-
 ---
 
 ---
@@ -53,8 +51,6 @@ Basic Quechua Lessons.
 
 - [Indiana University - Free Quechua Courses](https://celt.indiana.edu/portal/Quechua/courses/index.html)
 
-
-
 ---
 
 ## Quick Look-up
@@ -79,15 +75,11 @@ It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.goog
 
 - [Free Lang](https://www.freelang.net/online/quechua_cuzco.php)
 
-
-
 ---
 
 ## Big Vocabulary Data Set
 
 TBD - LINK TO FOLDER
-
- 
 
 ---
 
@@ -112,8 +104,6 @@ Discord Server Community**
 
 Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 
-
-
 ## Groups and Organizations
 
 - [Qichwa 2.0]([Qichwa 2.0](https://qichwa.net/en/))
@@ -128,8 +118,6 @@ Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - https://www.reddit.com/r/LearnQuechua/
 
-
-
 ---
 
 ---
@@ -139,8 +127,6 @@ Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 Big Language Table
 
 *a ch h i k l ll m n ñ p q r s t u w y*
-
-
 
 ---
 
@@ -168,7 +154,7 @@ Big Language Table
 
 - Quinine (kina)
 
-
+- Ahwaska?
 
 ## Learning about Andean culture (non-language)
 
@@ -187,8 +173,6 @@ Big Language Table
 - [The Norte Chico and the Peruvian Preceramic]([The Norte Chico and the Peruvian Preceramic - YouTube](https://www.youtube.com/watch?v=0aSe1Q-asr4))
 
 - [Moche Culture - YouTube](https://www.youtube.com/watch?v=j-TyUIc5Gro)
-
-
 
 ## Other Interesting Links
 
