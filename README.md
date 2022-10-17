@@ -124,9 +124,120 @@ Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 
 # Reference Tables
 
-Big Language Table
+Alphabet-ish
 
-*a ch h i k l ll m n ñ p q r s t u w y*
+### *a  ch  h  i  k  l  ll  m  n  ñ  p  q  r  s  t  u  w  y*
+
+Numbers
+
+NEED TO AUDIT & FORMAT
+
+| #    | Number              |
+| ---- | ------------------- |
+| 1    | huk                 |
+| 2    | iskay               |
+| 3    | kimsa               |
+| 4    | tawa                |
+| 5    | pishqa              |
+| 6    | suqta               |
+| 7    | qanchis             |
+| 8    | pusaq               |
+| 9    | isqun               |
+| 10   | chunka              |
+| 11   | chunka hukniyuq     |
+| 12   | chunka iskayniyuq   |
+| 13   | chunka kimsayuq     |
+| 14   | chunka tawayuq      |
+| 15   | chunka pishqayuq    |
+| 16   | chunka suqtayuq     |
+| 17   | chunka qanchisniyuq |
+| 18   | chunka pusaqniyuq   |
+| 19   | chunka isqunniyuq   |
+| 20   | iskay chunka        |
+| 100  | pachak              |
+| 10^3 | waranqa             |
+| 10^6 | hunu                |
+
+Colors / Visual
+
+NEED TO AUDIT & FORMAT
+
+| Color         | Llinpi     |
+| ------------- | ---------- |
+| black         | yana       |
+| white         | yuraq      |
+| red           | puka       |
+| orange        | naranja    |
+| yellow        | qillu      |
+| green         | qumir      |
+| turquoise     | turquesa   |
+| blue          | anqas      |
+| purple        | kulli      |
+| pink          | panti      |
+| gray          | uqi        |
+| brown         | chunpi     |
+| gold          | quri       |
+| silver        | qullqi     |
+| stone / solid | rumi       |
+| metal         | anta       |
+| wood          | kullu      |
+| shiny         | llimp'iyuq |
+| dull          | amisqa     |
+| bright        | kanchay    |
+| light         | kanchi     |
+| dark          | tutayasqa  |
+
+
+
+Emotions / Feelings
+
+NEED TO AUDIT & FORMAT & FINISH
+
+| Emotion      |     |
+| ------------ | --- |
+| Happy        |     |
+| Sad          |     |
+| Angry        |     |
+| Love         |     |
+| Fear         |     |
+| Surprise     |     |
+| Anticipation |     |
+|              |     |
+|              |     |
+|              |     |
+|              |     |
+
+
+
+
+
+
+
+
+
+
+
+People / Relationships
+
+Places / World
+
+Things / Items
+
+Direction / Distance
+
+Time
+
+Quantity / Size
+
+Ideas / Concepts
+
+Computers
+
+
+
+
+
+
 
 ---
 
