@@ -135,3 +135,15 @@ Numbers
 Colors
 
 English Cognates
+
+
+
+[Diccionario Quechua - Aymara](https://www.katari.org/diccionario/diccionario.php)
+
+
+
+http://www.zompist.com/quechua.html
+
+
+
+https://www.mayaincaaztec.com/
