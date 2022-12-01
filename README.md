@@ -187,8 +187,6 @@ NEED TO AUDIT & FORMAT
 | light         | kanchi     |
 | dark          | tutayasqa  |
 
-
-
 Emotions / Feelings
 
 NEED TO AUDIT & FORMAT & FINISH
@@ -207,16 +205,6 @@ NEED TO AUDIT & FORMAT & FINISH
 |              |     |
 |              |     |
 
-
-
-
-
-
-
-
-
-
-
 People / Relationships
 
 Places / World
@@ -232,12 +220,6 @@ Quantity / Size
 Ideas / Concepts
 
 Computers
-
-
-
-
-
-
 
 ---
 
