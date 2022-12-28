@@ -13,21 +13,16 @@ Notes on words contained here
 ## Categories
 
 
-
-
-
 * Numbers
 * Colors
 * Body (e.g. parts)
 * Emotions
 * Interactions (questions, greetings, goodbyes, excuse mes)
 * Direction (/ Size / Quantity?)
-* Places
+* Places (weather? environment?)
 * Things
 * People / Family / Relationships
 * Plants & Animals
-
-
 
 
 See?
@@ -59,7 +54,6 @@ Alphabet and Basics
 * Alphabet
 * Pronouns
 * Articles
-
 
 
 | --- |
