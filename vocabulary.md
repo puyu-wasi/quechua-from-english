@@ -13,16 +13,35 @@ Notes on words contained here
 ## Categories
 
 
-* Basics
+
+
+
 * Numbers
 * Colors
-* Body
+* Body (e.g. parts)
 * Emotions
-* Interactions
-* Direction
+* Interactions (questions, greetings, goodbyes, excuse mes)
+* Direction (/ Size / Quantity?)
 * Places
 * Things
-* People
+* People / Family / Relationships
+* Plants & Animals
+
+
+
+
+See?
+Touch?
+Smell?
+Taste?
+Hear?
+
+Think?
+Feel?
+
+You?
+Me?
+
 
 World
 Interactions
