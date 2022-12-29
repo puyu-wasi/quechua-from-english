@@ -1,11 +1,7 @@
-<div>
-<center><strong>Puyu Wasi: Quechua-from-English Guide</strong></center>
-<center>Southern Quechua / Urin Qichwa / Runasimi</center>
-</div>
+# Learning Southern Quechua
 
---- 
-
-# **<u>Learning Southern Quechua</u>**
+Puyu Wasi: Quechua-from-English Guide
+Southern Quechua / Urin Qichwa / Runasimi
 
 Spoken by over 8 million people in South America and around the world, the Quechuan languages emerged from the cradle of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that sounds phonetically beautiful, is truly unique, and really isn't too difficult to learn.
 
