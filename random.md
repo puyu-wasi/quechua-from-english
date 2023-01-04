@@ -10,7 +10,7 @@ Sumaqcha kanki
 Wawita kanki
 Wawachaymi fiu fiu
 
-Chocolate 
+Chocolate
 Miski miski
 Qinaspa qam kanki
 Pionono tanta qina
