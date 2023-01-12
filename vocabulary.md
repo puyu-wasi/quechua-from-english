@@ -1,6 +1,6 @@
-# Some Starting Vocabulary
+# Starting Vocabulary & Grammar (for me)
 
-#### Purpose of this page
+### Purpose of this page
 
 Notes on words contained here
 * Mostly / entirely normalized to Peru 1985 standard (as in runasimi.de)
@@ -12,7 +12,47 @@ Notes on words contained here
 
 ## Categories
 
+* Alphabet
+    * a ch h i k l ll m n p q r s t ñ u w y
 
+* Numbers
+    * -1,000,000 to 1,000,000
+    * fractions and decimals
+
+* Colors
+    * red yellow blue green ...
+    * qualities / patterns ... stripes, squares, shiny, dull
+
+* World
+    * Directions .. up down left right forward backwards north south east west far near
+    * Common places - ocean, land, island, mountain, city, town, home, school
+
+* People
+        * Emotions
+        * Body parts
+        * Relationships
+
+* Nature
+    * Common plants
+    * Common animals
+    * Common environments (ocean, mountain, sky)
+
+* Common thoughts? stuff?
+    * sulpayki
+    * imaynalla / allinlachu
+
+* Things
+    * Size
+    * Temperature
+    * Smell
+    * Taste
+
+All the prefix / suffix from wiki / aprendar / verenos
+
+
+
+
+All ideas...
 * Numbers
 * Colors
 * Body (e.g. parts)
@@ -23,7 +63,6 @@ Notes on words contained here
 * Things
 * People / Family / Relationships
 * Plants & Animals
-
 
 See?
 Touch?
