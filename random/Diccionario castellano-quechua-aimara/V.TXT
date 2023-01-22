@@ -1,0 +1,91 @@
+V
+
+CASTELLANO              QUECHUA                 AYMARA
+
+Vaca                    Waca                    Waca
+
+Vaciar                  Hichana                 Wuarsuña
+
+Vacio                   Chusaj                  Chusa
+
+Valiente                Machu                   Chacha
+
+Valle                   Chimbote                Phujra-Uraki
+
+Varón                   Kjari                   Chacha
+
+Vaso                    Mati                    Huampara
+
+Vecino                  Wasimasi                Utamasi
+
+Vejez                   Machucay                Achachiña
+
+Vejiga                  Yakkallachi             Yakkallacha
+
+Vena                    Sirca                   Sirca
+
+Venado                  Taruca                  Sari
+
+Vencer                  Atipana                 Atipaña
+
+Vender                  Miu                     Alhaña
+
+Venir                   Hamuna                  Hutaña
+
+Ventear                 Huayrachina             Thayachaña
+
+Ver                     Ricuna                  Unjhaña
+
+Verdad                  Sutin                   Chikka
+
+Verde                   Kgomer                  Chujhaña
+
+Verdear                 Kgomeryana              Chujgnachana
+
+Verdura                 Chchiwa                 Chchiwa
+
+Verguenza               Penkgay                 Cajsisisña
+
+Verse                   Ricununa                Unjhasiña
+
+Vestirse                Pachacuna               Isisiña
+
+Viajar                  Rina karuta             Saraña
+
+Viajero                 Rej karuta              Sariri
+
+Víbora                  Katari                  Katari
+
+Vicuña                  Sayraskha               Huari
+
+Vida                    Kausay                  Haca
+
+Vidrio                  Khespillu               Khispi
+
+Viejo                   Machula                 Achachi
+
+Viento                  Huayra                  Thaya
+
+Vientre                 Uijgsa                  Puraca
+
+Virgen                  Llumpa                  Llumppa
+
+Visible                 Sutti                   Khana
+
+Visitar                 Khawaycuna              Sarttasiña
+
+Vista                   Ñawi                    Naira
+
+Viuda                   Ijma                    Ijma
+
+Vivir                   Kausana                 Hacaña
+
+Vocear                  Khaparina               Aru-aptaña
+
+Volar                   Phauana                 Halaña
+
+Volver                  Kutina                  Kutiña
+
+Vomitar                 Kutichina               Kutiyaña
+
+Vuestro                 Khanpajgta              Humanqui
