@@ -15,22 +15,60 @@ Notes on words contained here
 * Alphabet
     * a ch h i k l ll m n p q r s t ñ u w y
 
+* Super basic stuff
+    * -kuna
+    * etc
+
 * Numbers
     * -1,000,000 to 1,000,000
     * fractions and decimals
 
-* Colors
+* Colors++
     * red yellow blue green ...
     * qualities / patterns ... stripes, squares, shiny, dull
+
+* Elements
+    * Gold, silver, etc
+    * Wood, air, water, fire, etc
+    * Actual elements?
+
+* Direction
+    * All spacial, forward, back, far, near, forward, back, left, etc
+
+* Basic interactions
+    * Imaynalla
+    * Sulpayki
+    * Yes, no
+    * Etc
+
+* Relationships
+    * Mom, dad, wife, son, brother, friend, etc
+
+* Emotions
+    * Happy, sad, etc
+
+* Nature / world
+    * Trees, earth, land, sky, etc
+
+* Animals
+    * Common... dogs, cats, llamakuna
+
+* Senses
+    * See, hear, taste, sweet, fowel, etc
+
+* Weather
+    * stuff
+
+
+
+* Plants?
+
+* Suffex and prefixes?
 
 * World
     * Directions .. up down left right forward backwards north south east west far near
     * Common places - ocean, land, island, mountain, city, town, home, school
 
-* People
-        * Emotions
-        * Body parts
-        * Relationships
 
 * Nature
     * Common plants
