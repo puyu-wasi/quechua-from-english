@@ -276,3 +276,5 @@ Computers
 - [ERIC - Search Results](https://eric.ed.gov/?q=quechua)
 
 - https://www.amazon.com/Quechua-Spanish-English-Dictionary-Hippocrene-Trilingual-Reference/dp/0781813549/
+
+https://learningquechua.wordpress.com/author/sigmobile/page/2/
