@@ -1,17 +1,12 @@
 # Learning Southern Quechua
 
-Puyu Wasi: Quechua-from-English Guide
-Southern Quechua / Urin Qichwa / Runasimi
-
-Spoken by over 8 million people in South America and around the world, the Quechuan languages emerged from the cradle of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that sounds phonetically beautiful, is truly unique, and really isn't too difficult to learn.
+Yet another Quechua-from-English guide ~ Spoken by over 8 million people in South America and around the world, the Quechuan languages emerged from the cradle of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that sounds phonetically beautiful, is truly unique, and isn't too difficult to learn.
 
 ### About this page
 
 This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**). Specifically, [Cusco-Collao Quechua](https://en.wikipedia.org/wiki/Cusco%E2%80%93Collao_Quechua) with slight preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect, and adhearing to the [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography and [spelling system](https://en.wikipedia.org/wiki/Quechuan_and_Aymaran_spelling_shift).
 
 <img title="" src="https://github.com/puyu-wasi/quechua-from-english/blob/main/files/puyu-wasi-quechua.png" alt="" data-align="inline">
-
----
 
 ---
 
@@ -29,13 +24,11 @@ Quechua, Simplified Language Course.
 
 Free Course.
 
-### [Cultures of the Andes](https://www.andes.org/q_index.html)
+## Others
 
-Basic Quechua Lessons.
+- [Cultures of the Andes](https://www.andes.org/q_index.html)
 
-### [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
-
-### Others
+- [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
 
 - [Barry Brian Werger - Quechua Language]([Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
 
@@ -49,7 +42,7 @@ Basic Quechua Lessons.
 
 ---
 
-## Quick Look-up
+## Quick Vocab Look-up
 
 ### [**QichwaDic**](https://www.dic.qichwa.net/#/)
 
@@ -73,13 +66,9 @@ It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.goog
 
 ---
 
-## Big Vocabulary Data Set
+## Some Vocabulary
 
-TBD - LINK TO FOLDER
-
----
-
----
+TBD - LINK
 
 # Immersion
 
@@ -100,7 +89,7 @@ Discord Server Community**
 
 Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 
-## Groups and Organizations
+## Groups and Orgs
 
 - [Qichwa 2.0]([Qichwa 2.0](https://qichwa.net/en/))
 
@@ -110,150 +99,17 @@ Library reading / multi-media - LINK TO NEW REPO - Puyu Yachay Taqi
 
 - [Quechua](https://www.reddit.com/r/quechua/)
 
-- [https://www.reddit.com/r/LearnQuechua/](https://www.reddit.com/r/LearnQuechua/%5BQuechua%5D(https://www.reddit.com/r/quechua/))[Quechua](https://www.reddit.com/r/quechua/)
+- [https://www.reddit.com/r/LearnQuechua/](https://www.reddit.com/r/LearnQuechua/%5BQuechua%5D(https://www.reddit.com/r/quechua/) 
 
-- https://www.reddit.com/r/LearnQuechua/
-
----
+- [Quechua](https://www.reddit.com/r/quechua/)
 
 ---
-
-# Reference Tables
-
-Alphabet-ish
-
-### *a  ch  h  i  k  l  ll  m  n  ñ  p  q  r  s  t  u  w  y*
-
-Numbers
-
-NEED TO AUDIT & FORMAT
-
-| #    | Number              |
-| ---- | ------------------- |
-| 1    | huk                 |
-| 2    | iskay               |
-| 3    | kimsa               |
-| 4    | tawa                |
-| 5    | pishqa              |
-| 6    | suqta               |
-| 7    | qanchis             |
-| 8    | pusaq               |
-| 9    | isqun               |
-| 10   | chunka              |
-| 11   | chunka hukniyuq     |
-| 12   | chunka iskayniyuq   |
-| 13   | chunka kimsayuq     |
-| 14   | chunka tawayuq      |
-| 15   | chunka pishqayuq    |
-| 16   | chunka suqtayuq     |
-| 17   | chunka qanchisniyuq |
-| 18   | chunka pusaqniyuq   |
-| 19   | chunka isqunniyuq   |
-| 20   | iskay chunka        |
-| 100  | pachak              |
-| 10^3 | waranqa             |
-| 10^6 | hunu                |
-
-Colors / Visual
-
-NEED TO AUDIT & FORMAT
-
-| Color         | Llinpi     |
-| ------------- | ---------- |
-| black         | yana       |
-| white         | yuraq      |
-| red           | puka       |
-| orange        | naranja    |
-| yellow        | qillu      |
-| green         | qumir      |
-| turquoise     | turquesa   |
-| blue          | anqas      |
-| purple        | kulli      |
-| pink          | panti      |
-| gray          | uqi        |
-| brown         | chunpi     |
-| gold          | quri       |
-| silver        | qullqi     |
-| stone / solid | rumi       |
-| metal         | anta       |
-| wood          | kullu      |
-| shiny         | llimp'iyuq |
-| dull          | amisqa     |
-| bright        | kanchay    |
-| light         | kanchi     |
-| dark          | tutayasqa  |
-
-Emotions / Feelings
-
-NEED TO AUDIT & FORMAT & FINISH
-
-| Emotion      |     |
-| ------------ | --- |
-| Happy        |     |
-| Sad          |     |
-| Angry        |     |
-| Love         |     |
-| Fear         |     |
-| Surprise     |     |
-| Anticipation |     |
-|              |     |
-|              |     |
-|              |     |
-|              |     |
-
-People / Relationships
-
-Places / World
-
-Things / Items
-
-Direction / Distance
-
-Time
-
-Quantity / Size
-
-Ideas / Concepts
-
-Computers
-
----
-
----
-
-# Appendix
-
-## Words in English that come from Quechua
-
-- Llama
-
-- Puma
-
-- Maté
-
-- Alpaca (allpaqa)
-
-- Condor (kuntur)
-
-- Quinoa (kinwa)
-
-- Jerky (ch'arki)
-
-- Cocaine / Cocoa (kuka)
-
-- Quinine (kina)
-
-- Ahwaska?
 
 ## Learning about Andean culture (non-language)
-
-**Fall of Civilizations**
 
 - [The Inca - Cities in the Clouds (Part 1 of 2)]([12. The Inca - Cities in the Cloud (Part 1 of 2) - YouTube](https://www.youtube.com/watch?v=BRB9dJmZhVk))
 
 - [The Inca - Cities in the Clouds (Part 2 of 2)]([12. The Inca - Cities in the Cloud (Part 2 of 2) - YouTube](https://www.youtube.com/watch?v=2GkNOT2Q2hk))
-
-**Ancient Americas**
 
 - [Tiwanaku Part 1: The City]([Tiwanaku Part 1: The City - YouTube](https://www.youtube.com/watch?v=sybbruxeJu8))
 
@@ -275,6 +131,8 @@ Computers
 
 - [ERIC - Search Results](https://eric.ed.gov/?q=quechua)
 
-- https://www.amazon.com/Quechua-Spanish-English-Dictionary-Hippocrene-Trilingual-Reference/dp/0781813549/
+# Appendix
+
+https://www.amazon.com/Quechua-Spanish-English-Dictionary-Hippocrene-Trilingual-Reference/dp/0781813549/
 
 https://learningquechua.wordpress.com/author/sigmobile/page/2/
