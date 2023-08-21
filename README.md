@@ -24,7 +24,7 @@ This page is a collection of free study materials I've collected while learning.
 
 - [Paul Heggarty - Quechua Language](https://lingweb.eva.mpg.de/quechua/Eng/Main/index.html)
 
-- [Barry Brian Werger - Quechua Language]([Quechua Language Homepage](http://www.ullanta.com/quechua/#internetlessons)
+- [Barry Brian Werger - Quechua Language]((http://www.ullanta.com/quechua/#internetlessons)
 
 - [Runasimi.de](https://www.runasimi.de/runaengl.htm)
 
@@ -42,7 +42,7 @@ This page is a collection of free study materials I've collected while learning.
     This is maybe the best one.
 
 - [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
-    It's Google Translate... (and [*Translate Chrome Extension*](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)).
+    It's Google Translate.
 
 ## Others
 
@@ -74,7 +74,7 @@ TBD - LINKS
 
 
 
-## Groups and Orgs
+## Groups & Organizations
 
 - [Quechua Discord](https://discord.gg/CP5MpevRDu)
 
@@ -94,7 +94,7 @@ TBD - LINKS
 
 ## Other Interesting Links
 
-- [National Library of Peru | Library of Congress]([National Library of Peru | Library of Congress](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
+- [National Library of Peru | Library of Congress]((https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
 
 - [Internet Archive: Quechua](https://archive.org/search.php?query=quechua)
 
