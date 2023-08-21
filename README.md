@@ -94,7 +94,7 @@ TBD - LINKS
 
 ## Other Interesting Links
 
-- [National Library of Peru | Library of Congress]((https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
+- [National Library of Peru | Library of Congress](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
 
 - [Internet Archive: Quechua](https://archive.org/search.php?query=quechua)
 
