@@ -54,7 +54,7 @@ This page is a collection of free study materials I've collected while learning.
 ---
 ## My Creations
 
-- [Takikuna Quechua 🏳️‍🌈🔊](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
+- [Taki Quechua Music](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
 
 - [Memrise: Southern Quechua (Words for Thoughts)](https://app.memrise.com/course/6355922/southern-quechua-words-for-thoughts/)
 
