@@ -36,7 +36,7 @@ This page is a collection of free study materials I've collected while learning.
 
 ---
 
-## Quick Vocab Look-up
+## Vocabulary Look-up
 
 - [**QichwaDic**](https://www.dic.qichwa.net/#/)
     This is maybe the best one.
@@ -60,13 +60,15 @@ This page is a collection of free study materials I've collected while learning.
 
 ## My Creations
 
-TBD - LINKS
+[Memrise Course: Southern Quechua (Words for Thoughts)](https://app.memrise.com/course/6355922/southern-quechua-words-for-thoughts/)
+
+[Memrise Course: Southern Quechua (Databse Only)](https://app.memrise.com/course/6348711/southern-quechua-database-only/)
+
+[Takikuna Quechua 🏳️‍🌈🔊](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
 
 ---
 
 # Immersion
-
-[Takikuna Quechua (Music)](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
 
 [Ñuqanchik (TV News)](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
 
