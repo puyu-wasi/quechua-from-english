@@ -2,7 +2,7 @@
 
 Yet another Quechua-from-English guide ~ Spoken by over 8 million people in South America and around the world, the Quechuan languages emerged from the cradle of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that sounds phonetically beautiful, is truly unique, and isn't too difficult to learn.
 
-### About this page
+#### About this page
 
 This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**). Specifically, [Cusco-Collao Quechua](https://en.wikipedia.org/wiki/Cusco%E2%80%93Collao_Quechua) with slight preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect, and adhearing to the [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography and [spelling system](https://en.wikipedia.org/wiki/Quechuan_and_Aymaran_spelling_shift).
 
@@ -16,7 +16,7 @@ This page is a collection of free study materials I've collected while learning.
 
 - [**Aprender Quechua Language Online**](https://aprenderquechua.com/english/)
 
-### Others
+#### Others
 
 - [Cultures of the Andes](https://www.andes.org/q_index.html)
 
@@ -39,7 +39,7 @@ This page is a collection of free study materials I've collected while learning.
 
 - [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
 
-### Others
+#### Others
 
 - [Quechua Chanka (Talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
 
@@ -84,7 +84,7 @@ This page is a collection of free study materials I've collected while learning.
 - [Reddit Learn Quechua](https://www.reddit.com/r/LearnQuechua/%5BQuechua%5D)
 
 ---
-## Other Interesting Links
+#### Other Interesting Links
 
 - [National Library of Peru](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
 
