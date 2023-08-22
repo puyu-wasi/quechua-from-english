@@ -12,7 +12,7 @@ This page is a collection of free study materials I've collected while learning.
 
 ## 'Best' Online Courses
 
-- [**Vaneros**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
+- [**Vaneros Simplified Language Course**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
 
 - [**Aprender Quechua Language Online**](https://aprenderquechua.com/english/)
 
@@ -35,19 +35,19 @@ This page is a collection of free study materials I've collected while learning.
 ---
 ## Vocabulary Look-up
 
-- [**QichwaDic**](https://www.dic.qichwa.net/#/)
+- [**QichwaDic**](https://dic.qichwa.net/#/search?word=hello&type=2&target=en&fromQuechua=0)
 
 - [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
 
 #### Others
 
-- [Quechua Chanka (Talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
+- [Quechua Chanka (Talking Dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
 
-- [Forvo (Talking dictionary)](https://forvo.com/languages/qu/)
+- [Forvo (Talking Dictionary)](https://forvo.com/languages/qu/)
 
 - [Glosbe](https://glosbe.com/en/qu)
 
-- [Quechua Dictionary](http://www.quechuadictionary.org/)
+- [Quechuadictionary.org](http://www.quechuadictionary.org/)
 
 - [Free Lang](https://www.freelang.net/online/quechua_cuzco.php)
 
