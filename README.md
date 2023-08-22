@@ -12,9 +12,9 @@ This page is a collection of free study materials I've collected while learning.
 
 ## 'Best' Online Courses
 
-- [**Vaneros Simplified Language Course**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
+- [**Vaneros Simplified Language Course** 🌟](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
 
-- [**Aprender Quechua Language Online**](https://aprenderquechua.com/english/)
+- [**Aprender Quechua Language Online** 🌟](https://aprenderquechua.com/english/)
 
 #### Others
 
@@ -35,7 +35,7 @@ This page is a collection of free study materials I've collected while learning.
 ---
 ## Vocabulary Look-up
 
-- [**QichwaDic**](https://dic.qichwa.net/#/search?word=hello&type=2&target=en&fromQuechua=0)
+- [**QichwaDic** 🌟](https://dic.qichwa.net/#/search?word=hello&type=2&target=en&fromQuechua=0)
 
 - [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
 
@@ -64,20 +64,20 @@ This page is a collection of free study materials I've collected while learning.
 ---
 # Immersion
 
-- [Ñuqanchik (TV News)](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
+- [Ñuqanchik (TV News) 🌟](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
 
 - [Quechua Wikipedia](https://qu.wikipedia.org/wiki/Main_Page)
 
 ---
 ## Groups & Organizations
 
-- [Discord](https://discord.gg/CP5MpevRDu)
+- [Discord 🌟](https://discord.gg/CP5MpevRDu)
 
 - [Qichwa 2.0](https://qichwa.net/en/)
 
-- [Thequechua.org/](https://thequechua.org/)
+- [Thequechua.org](https://thequechua.org/)
 
-- [Andes.org/](https://www.andes.org/)
+- [Andes.org](https://www.andes.org/)
 
 - [Reddit Quechua](https://www.reddit.com/r/quechua/)
 
