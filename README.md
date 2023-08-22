@@ -1,4 +1,4 @@
-# Learning Southern Quechua 🏳️‍🌈
+# Learning Southern Quechua 🏳️‍🌈🩵
 
 Yet another Quechua-from-English guide ~ Spoken by over 8 million people in South America and around the world, the Quechuan languages emerged from the cradle of civilization along the coast of Peru and Andean mountains. A former lingua-franca of the Inca Empire, this is a language that sounds phonetically beautiful, is truly unique, and isn't too difficult to learn.
 
