@@ -13,10 +13,8 @@ This page is a collection of free study materials I've collected while learning.
 ## 'Best' Online Courses
 
 - [**Vaneros**](https://www.vanenos.com/en/others/quechua-language-introduction/quechua-language-introduction/)
-    Great Simplified Language Course.
 
 - [**Aprender Quechua Language Online**](https://aprenderquechua.com/english/)
-    Great Free Course.
 
 ### Others
 
@@ -38,16 +36,14 @@ This page is a collection of free study materials I've collected while learning.
 ## Vocabulary Look-up
 
 - [**QichwaDic**](https://www.dic.qichwa.net/#/)
-    This is maybe the best one.
 
 - [**Google Translate**](https://translate.google.com/?sl=en&tl=qu&op=translate)
-    It's Google Translate.
 
 ### Others
 
-- [Quechua Chanka (talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
+- [Quechua Chanka (Talking dictionary)](http://talkingdictionary.swarthmore.edu/quechua_chanka/)
 
-- [Forvo (talking dictionary)](https://forvo.com/languages/qu/)
+- [Forvo (Talking dictionary)](https://forvo.com/languages/qu/)
 
 - [Glosbe](https://glosbe.com/en/qu)
 
@@ -60,9 +56,9 @@ This page is a collection of free study materials I've collected while learning.
 
 - [Takikuna Quechua 🏳️‍🌈🔊](https://www.youtube.com/watch?v=6R7zGDp_wsQ&list=PLP1RQ_FSfiQ7VdNpyAb852fLMrfCgLZaV)
 
-- [Memrise Course: Southern Quechua (Words for Thoughts)](https://app.memrise.com/course/6355922/southern-quechua-words-for-thoughts/)
+- [Memrise: Southern Quechua (Words for Thoughts)](https://app.memrise.com/course/6355922/southern-quechua-words-for-thoughts/)
 
-- [Memrise Course: Southern Quechua (Databse Only)](https://app.memrise.com/course/6348711/southern-quechua-database-only/)
+- [Memrise: Southern Quechua (Database Only)](https://app.memrise.com/course/6348711/southern-quechua-database-only/)
 
 ---
 ---
