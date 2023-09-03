@@ -7,7 +7,6 @@ Yet another Quechua-from-English guide ~ Spoken by over 8 million people in Sout
 This page is a collection of free study materials I've collected while learning. As [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) is a language family that features ambiguity, it's worth noting that the materials here aim to fall under the [**Southern Quechua**](https://en.wikipedia.org/wiki/Southern_Quechua) language (**II-C**). Specifically, [Cusco-Collao Quechua](https://en.wikipedia.org/wiki/Cusco%E2%80%93Collao_Quechua) with slight preference towards the [Cuzco-Quechua](https://en.wikipedia.org/wiki/Cuzco_Quechua_language) dialect, and adhearing to the [Standard Quechua](https://en.wikipedia.org/wiki/Quechua_alphabet) orthography and [spelling system](https://en.wikipedia.org/wiki/Quechuan_and_Aymaran_spelling_shift).
 
 ---
----
 # Learning Materials
 
 ## 'Best' Online Courses
@@ -61,14 +60,12 @@ This page is a collection of free study materials I've collected while learning.
 - [Memrise: Southern Quechua (Database Only)](https://app.memrise.com/course/6348711/southern-quechua-database-only/)
 
 ---
----
 # Immersion
 
 - [Ñuqanchik (TV News) 🌟](https://www.youtube.com/watch?v=YZlHpuV7Kt0&list=PLtU1EVPSjC2D6m6kxukp8LjOl_BEMC3JP)
 
 - [Quechua Wikipedia](https://qu.wikipedia.org/wiki/Main_Page)
 
----
 ## Groups & Organizations
 
 - [Discord 🌟](https://discord.gg/CP5MpevRDu)
@@ -83,7 +80,6 @@ This page is a collection of free study materials I've collected while learning.
 
 - [Reddit Learn Quechua](https://www.reddit.com/r/LearnQuechua/%5BQuechua%5D)
 
----
 #### Other Interesting Links
 
 - [National Library of Peru](https://www.loc.gov/search/?all=true&fa=partof:national+library+of+peru)
@@ -92,7 +88,11 @@ This page is a collection of free study materials I've collected while learning.
 
 - [Universal Declaration of Human Rights - Quechua](https://www.ohchr.org/en/human-rights/universal-declaration/translations/quechua)
 
-- [Universal Declaration of Human Rights - Quechua del Cusco](https://www.ohchr.org/en/human-rights/universal-declaration/translations/quechua-del-cusco)
+- [Fall of Civilizations Podcast](https://www.youtube.com/watch?v=BRB9dJmZhVk)
+
+- [Ancient Americans Channel](https://www.youtube.com/@AncientAmericas)
+
+- [Ollantay Video Presentation](https://www.youtube.com/watch?v=nZG2-bgfXqw)
 
 - [ERIC Search](https://eric.ed.gov/?q=quechua)
 
